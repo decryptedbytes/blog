@@ -1,6 +1,5 @@
 ---
 title: 'About'
-image: images/writer.jpeg
 url: "about"
 menu:
   main:
@@ -8,44 +7,18 @@ menu:
     weight: 3
 ---
 
-## Contra vagos
+## What is Decrypted Bytes?
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+Decrypted Bytes is a publication focused on creating technical content around different blockchain protocols and product. We aim to create technical content for everyone who is or wants get involved into the blockchain/web3 industry.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+As web3 industry becomes bigger and bigger, many people will come in with different backgrounds and different understanding of these systems. If someone with few years of experience comes in and wants to learn, that person might not be looking for how solidity data structure works. We want to fill that issue and create content that suits to their level of knowledge.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+## Why work on Decrypted Bytes?
 
-## Ducem oculos pallor tale quoque
+Currently, I am the only person working on the publication and writing stuff about things I feel most excited. There are some many things happening everyday in the web3 ecosystem but I think there is not a lot of content around it. That is why I create this publication to write about those things with a technical perspective. 
 
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
+## Want to write for us?
 
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
+If you want to write on Decrypted Bytes on any technical topic around blockchain email me at [hello@decryptedbytes.com](mailto:hello@decryptedbytees.com). If you want to write on topics that caters to non-technical audience please don’t hesitate to ping about those as well.
 
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+**PS**, if you’re on the team of any interesting project and wants me to help you write docs or any articles about your protocol or product then ping me at [hello@decryptedbytees.com](mailto:hello@decryptedbytees.com). I am also open for developer relations position assuming that will allow me to continue working on this publication.
