@@ -21,4 +21,4 @@ Currently, I am the only person working on the publication and writing stuff abo
 
 If you want to write on Decrypted Bytes on any technical topic around blockchain email me at [hello@decryptedbytes.com](mailto:hello@decryptedbytes.com). If you want to write on topics that caters to non-technical audience please don’t hesitate to ping about those as well.
 
-**PS**, if you’re on the team of any interesting project and wants me to help you write docs or any articles about your protocol or product then ping me at [hello@decryptedbytees.com](mailto:hello@decryptedbytes.com). I am also open for developer relations position assuming that will allow me to continue working on this publication.
+**PS**, if you’re on the team of any interesting project and wants me to help you write docs or any articles about your protocol or product then ping me at [hello@decryptedbytes.com](mailto:hello@decryptedbytes.com). I am also open for developer relations position assuming that will allow me to continue working on this publication.
