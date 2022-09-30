@@ -1,6 +1,7 @@
 ---
-title: You don't start out writing good stuff
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Everything will be tokenized one day.
+description: Decrypted Bytes is focused on exploring different blockchains.
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+Decrypted bytes is a blog where we are going to explore different blockchains. That will include things from learning about their architecture to writing smart contracts on those chains.
+We are still in the early phase of the web3 ecosystem and throwing things at walls to see what sticks. We believe that there won't be one chain that rules all but a bunch of chains that will have different use cases. That is why we want to explore different chains, find their pros and cons and give you, the reader, all the tools to decide for yourself what is the best solution for your application.
